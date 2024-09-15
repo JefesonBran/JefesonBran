@@ -7,4 +7,5 @@ Programming Languages, Web Development, Database!!
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: I AM EXTROVERTED!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefesonBran&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefesonBran&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefesonBran&layout=compact)
