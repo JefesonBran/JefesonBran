@@ -11,5 +11,5 @@ Programming Languages, Web Development, Database!!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefesonBran&layout=compact)
 
-![Snake animation](https://github.com/JefesonBran)
+![Snake animation](https://github.com/JefesonBran/JefesonBran/edit/main/README.md)
 
