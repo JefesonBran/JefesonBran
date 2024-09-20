@@ -10,9 +10,9 @@ Programming Languages, Web Development, Database!!
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: I AM EXTROVERTIDO!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefesonBran&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefesonBran&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefesonBran&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefesonBran&show_icons=true&theme=radical)<br>
 
 
 <picture>
@@ -21,3 +21,7 @@ Programming Languages, Web Development, Database!!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JefesonBran/JefesonBran/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+ <a href="https://instagram.com/Jeff_br07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/jeferson-brandao-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:jefersonbrandaodenovaes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
